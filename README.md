@@ -5,14 +5,6 @@ Here’s a professional `README.md` for your car dataset analysis repository on 
 # Car Dataset Analysis
 This repository contains an in-depth analysis of a car dataset using Python's pandas, matplotlib, and seaborn libraries. The analysis covers sales, pricing, horsepower, fuel efficiency, and more, offering insights into the automobile market.
 
-## Table of Contents
-- [Project Overview](#project-overview)
-- [Dataset](#dataset)
-- [Key Insights](#key-insights)
-- [Installation](#installation)
-- [How to Run](#how-to-run)
-- [Analysis Breakdown](#analysis-breakdown)
-- [License](#license)
 
 ## Project Overview
 This project explores various aspects of car data, such as:
